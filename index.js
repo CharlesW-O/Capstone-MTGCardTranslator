@@ -60,6 +60,3 @@ app.post("/", async (req, res) => {
 app.listen(port, () => {
     console.log(`Server running on port: ${port}`);
 });
-
-// 01d8650e-d191-4c5f-b088-bf6147306ec0 (es id for shock/choque)
-// (en id for shock.choque)
